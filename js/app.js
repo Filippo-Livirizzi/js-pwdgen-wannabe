@@ -13,3 +13,4 @@ const random = Math.floor(Math.random() * 100); //number
 const password = name + surname + color + random; //string
 console.log(password);
 
+window.alert( "La tua password è: " + password); //string
